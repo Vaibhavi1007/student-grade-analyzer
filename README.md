@@ -16,19 +16,28 @@ who failed, all using vectorized NumPy operations instead of manual loops.
 - NumPy
 
 ## How to Run
+
 **1. Clone this repository**
+`````
 git clone https://github.com/Vaibhavi1007/student-grade-analyzer.git
 cd student-grade-analyzer
+``````
 
 **2. Create and activate a virtual environment**
+```````
 python -m venv venv
 venv\Scripts\activate
+````````
 
 **3. Install dependencies**
+`````````
 pip install -r requirements.txt
+``````````
 
 **4. Run the program**
+`````````
 python gradeanalyzer.py
+``````````
 
 **5. Enter the number of students, then their names and marks when prompted**
 
