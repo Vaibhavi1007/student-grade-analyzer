@@ -42,6 +42,7 @@ python gradeanalyzer.py
 **5. Enter the number of students, then their names and marks when prompted**
 
 ## Sample Output
+```
 Highest Marks: vai = 98
 
 Lowest Marks: shri = 23
@@ -69,6 +70,7 @@ sai:67 Grade: C
 sam:39 Grade: F
 
 shri:23 Grade: F
+```
 
 ## What I Learned
 Converted an original plain-Python version (using dictionaries, manual loops, 
